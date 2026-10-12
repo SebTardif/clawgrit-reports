@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "kova.artifact.bundle.v1",
+  "generatedAt": "2026-10-12T05:37:01.229Z",
+  "runId": "kova-261012-053422-2a132e",
+  "outputPath": "/home/runner/_work/openclaw/openclaw/.artifacts/kova/bundles/live-openai-candidate/kova-261012-053422-2a132e-bundle-d1f94c4395a9a9646419488b244f0dfd44bca788d067ba579a780a37552b379d.tar.gz",
+  "checksumPath": "/home/runner/_work/openclaw/openclaw/.artifacts/kova/bundles/live-openai-candidate/kova-261012-053422-2a132e-bundle-d1f94c4395a9a9646419488b244f0dfd44bca788d067ba579a780a37552b379d.tar.gz.sha256",
+  "sha256": "d1f94c4395a9a9646419488b244f0dfd44bca788d067ba579a780a37552b379d",
+  "bytes": 162338,
+  "publicationOmissions": {
+    "fileCount": 0,
+    "totalBytes": 0
+  },
+  "artifactIndex": {
+    "path": "artifact-index.json",
+    "fileCount": 21,
+    "totalBytes": 3343820,
+    "publicationOmissions": {
+      "fileCount": 0,
+      "totalBytes": 0
+    }
+  },
+  "included": {
+    "reportJson": true,
+    "reportMarkdown": true,
+    "pasteSummary": true,
+    "runArtifacts": true,
+    "artifactIndex": true
+  }
+}
