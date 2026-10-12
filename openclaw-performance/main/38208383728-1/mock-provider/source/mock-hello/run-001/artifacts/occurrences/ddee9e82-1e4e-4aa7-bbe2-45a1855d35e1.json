@@ -1,0 +1,46 @@
+{
+  "result": {
+    "name": "Channel baseline conversation",
+    "status": "pass",
+    "steps": [
+      {
+        "name": "ignores unmentioned channel chatter",
+        "status": "pass"
+      },
+      {
+        "name": "replies when mentioned in channel",
+        "status": "pass",
+        "details": "QA-CHANNEL-BASELINE-OK"
+      }
+    ],
+    "evidenceOccurrenceId": "ddee9e82-1e4e-4aa7-bbe2-45a1855d35e1"
+  },
+  "launch": {
+    "source": {
+      "ref": "a5710f05606286ad6981fc1e514b595544906585",
+      "integrity": "git:a5710f05606286ad6981fc1e514b595544906585"
+    },
+    "runtime": {
+      "id": "node",
+      "version": "v24.19.0"
+    },
+    "package": null,
+    "protocol": null,
+    "accountRef": null,
+    "proofClass": null
+  },
+  "runtime": {
+    "source": {
+      "ref": null,
+      "integrity": null
+    },
+    "runtime": {
+      "id": "openclaw",
+      "version": "2026.10.1"
+    },
+    "package": null,
+    "protocol": "gateway:4",
+    "accountRef": null,
+    "proofClass": null
+  }
+}
