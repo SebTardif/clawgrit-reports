@@ -1,14 +1,14 @@
 {
   "repository": "openclaw/openclaw",
   "ref": "main",
-  "sha": "30fb4feba23f4afe6e29065dc69a9b756f821e87",
+  "sha": "54691736d026cba16ee8623bb3729f8c2c4c5af7",
   "tested_ref": "main",
-  "tested_sha": "30fb4feba23f4afe6e29065dc69a9b756f821e87",
+  "tested_sha": "54691736d026cba16ee8623bb3729f8c2c4c5af7",
   "workflow_ref": "main",
-  "workflow_sha": "30fb4feba23f4afe6e29065dc69a9b756f821e87",
+  "workflow_sha": "54691736d026cba16ee8623bb3729f8c2c4c5af7",
   "workflow": "OpenClaw Performance",
-  "run_id": "38516324551",
+  "run_id": "38686484695",
   "run_attempt": "1",
   "lane": "mock-deep-profile",
-  "path": "openclaw-performance/main/38516324551-1/mock-deep-profile"
+  "path": "openclaw-performance/main/38686484695-1/mock-deep-profile"
 }
