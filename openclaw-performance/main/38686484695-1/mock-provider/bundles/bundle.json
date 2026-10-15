@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "kova.artifact.bundle.v1",
+  "generatedAt": "2026-10-15T05:47:38.188Z",
+  "runId": "kova-261015-052436-6c06b0",
+  "outputPath": "/home/runner/_work/openclaw/openclaw/.artifacts/kova/bundles/mock-provider/kova-261015-052436-6c06b0-bundle-070f304de8320c6cd5092518aeae16f32c7a89b1746fa1f2a985899fc92b5eb2.tar.gz",
+  "checksumPath": "/home/runner/_work/openclaw/openclaw/.artifacts/kova/bundles/mock-provider/kova-261015-052436-6c06b0-bundle-070f304de8320c6cd5092518aeae16f32c7a89b1746fa1f2a985899fc92b5eb2.tar.gz.sha256",
+  "sha256": "070f304de8320c6cd5092518aeae16f32c7a89b1746fa1f2a985899fc92b5eb2",
+  "bytes": 2617486,
+  "publicationOmissions": {
+    "fileCount": 0,
+    "totalBytes": 0
+  },
+  "artifactIndex": {
+    "path": "artifact-index.json",
+    "fileCount": 368,
+    "totalBytes": 50586259,
+    "publicationOmissions": {
+      "fileCount": 0,
+      "totalBytes": 0
+    }
+  },
+  "included": {
+    "reportJson": true,
+    "reportMarkdown": true,
+    "pasteSummary": true,
+    "runArtifacts": true,
+    "artifactIndex": true
+  }
+}
